@@ -20,11 +20,11 @@ The MLGL is uploading....
 <img src="docs/Picture2_b.png" width=100%/> 
 </div>  
 
-# Run the model
+# Run models
 
-```1) Unzip the Dataset.zip.001 ~ Dataset.zip.012 under the application folder```
+```1) Unzip the Dataset under the application folder```
 
-```2) Unzip the Pretrained_models.7z.001 ~ Pretrained_models.7z.03 under the application folder```
+```2) Unzip the Pretrained_models under the application folder```
 
 ```3) Enter the application folder: cd application```
 
@@ -123,7 +123,7 @@ ARP:
         mse_loss: 0.9395196263112058, mae_loss: 0.7059113823644231, r2: 0.5150779032755175
 ```
  
-
+## To be continued...
 
 
 
