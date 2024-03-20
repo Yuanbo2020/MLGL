@@ -1,6 +1,20 @@
 # Multi-level graph learning (MLGL) 
 
-The MLGL is uploading....
+# Citation
+Please consider citing our paper as
+```bibtex
+@INPROCEEDINGS{10446633,
+  author={Hou, Yuanbo and Ren, Qiaoqiao and Song, Siyang and Song, Yuxin and Wang, Wenwu and Botteldooren, Dick},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Multi-Level Graph Learning For Audio Event Classification And Human-Perceived Annoyance Rating Prediction}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={716-720},
+  keywords={Analytical models;Statistical analysis;Working environment noise;Semantics;Urban areas;Signal processing;Task analysis;Noise;annoyance;audio event classification;annoyance rating prediction;multi-level graph learning},
+  doi={10.1109/ICASSP48485.2024.10446633}}
+```
+  
 
 <h3 align="center"> The proposed lightweight attention-fused multi-level graph learning (MLGL). <p></p></h3>
 <div align="center">
@@ -122,8 +136,6 @@ AEC:
 ARP:
         mse_loss: 0.9395196263112058, mae_loss: 0.7059113823644231, r2: 0.5150779032755175
 ```
- 
-## To be continued...
 
 
 
